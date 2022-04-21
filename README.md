@@ -1,3 +1,4 @@
 # todo
-[ ] add a *n random color adder* 
-[ ] add an *auto copy* option
+
+- [ ] add a _n random color adder_
+- [ ] add an _auto copy_ option
